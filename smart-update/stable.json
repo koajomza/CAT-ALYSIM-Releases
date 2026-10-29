@@ -1,0 +1,295 @@
+{
+  "schema_version": 4,
+  "app": "CAT-ALYSIM",
+  "channel": "stable",
+  "base_app_version": "2026.10.24.1",
+  "revision": 1,
+  "generated_at": "2026-10-30T06:59:11.837019+07:00",
+  "files": [
+    {
+      "path": "_internal/base_library.zip",
+      "action": "put",
+      "base_sha256": "b3243d39f1b0e83a383aacbcaefd42b460fe4a5fc84fb3d5595a7ce1909e6913",
+      "sha256": "b4b9a14ca7f3fdad66c56cdd2926e2a4d08171d60cad5df90341cbcabf69bbd6",
+      "size": 1331361,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261030-065850-5f124f8f/file-b4b9a14ca7f3fdad66c56cdd2926e2a4d08171d60cad5df90341cbcabf69bbd6.zip"
+    },
+    {
+      "path": "_internal/Module/shared.zip",
+      "action": "put",
+      "base_sha256": null,
+      "sha256": "f961257a87c3297d5dd2be7663600fcb84f1c7e8e8f8bdcab1443f510212e99a",
+      "size": 17170946,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261030-065850-5f124f8f/file-f961257a87c3297d5dd2be7663600fcb84f1c7e8e8f8bdcab1443f510212e99a.zip"
+    },
+    {
+      "path": "_internal/Module/shared/crime_scene.zip",
+      "action": "put",
+      "base_sha256": "e407c29af1f9d6392a9fcad0e031161f761bafadc2466779502d046fcd6bb895",
+      "sha256": "0dfff72e56100dd27e36bb1f08f2d4186b04d26db4196d9fff3e6a139c1ffd61",
+      "size": 663408,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261030-065850-5f124f8f/file-0dfff72e56100dd27e36bb1f08f2d4186b04d26db4196d9fff3e6a139c1ffd61.zip"
+    },
+    {
+      "path": "_internal/Module/shared/photo_evidence.zip",
+      "action": "put",
+      "base_sha256": "b745b90656856c9c5767c9a7545558cc4426833e479ed439e767ec4a0e0a347f",
+      "sha256": "b62ce8a3d7067b1ae034ad24271610912c744ba571c9d313d172ca641c216cbf",
+      "size": 199103,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261030-065850-5f124f8f/file-b62ce8a3d7067b1ae034ad24271610912c744ba571c9d313d172ca641c216cbf.zip"
+    },
+    {
+      "path": "_internal/Module/shared/photo_evidence/photo_evidence_icons/arrow.png",
+      "action": "put",
+      "base_sha256": null,
+      "sha256": "838f0167502f669c62ab4f679b1a606b54106850fdea5dd3af158376137badf7",
+      "size": 714,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261030-065850-5f124f8f/file-838f0167502f669c62ab4f679b1a606b54106850fdea5dd3af158376137badf7.png"
+    },
+    {
+      "path": "_internal/Module/shared/photo_evidence/photo_evidence_icons/blur.png",
+      "action": "put",
+      "base_sha256": null,
+      "sha256": "3ae99c0e3850bedb77af85b77cd8c3fdbad7f0b3935816a1f27d185287efd15b",
+      "size": 2025,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261030-065850-5f124f8f/file-3ae99c0e3850bedb77af85b77cd8c3fdbad7f0b3935816a1f27d185287efd15b.png"
+    },
+    {
+      "path": "_internal/Module/shared/photo_evidence/photo_evidence_icons/circle.png",
+      "action": "put",
+      "base_sha256": null,
+      "sha256": "34ae4d8d7adee5633e348c4368a0a60cddedb111b82a6145f9f480490813515b",
+      "size": 2055,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261030-065850-5f124f8f/file-34ae4d8d7adee5633e348c4368a0a60cddedb111b82a6145f9f480490813515b.png"
+    },
+    {
+      "path": "_internal/Module/shared/photo_evidence/photo_evidence_icons/computer.png",
+      "action": "put",
+      "base_sha256": null,
+      "sha256": "c97e0d136257b6b38ae05286cdf605cdfd5a37a5f6090686467116d035d7ccda",
+      "size": 933,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261030-065850-5f124f8f/file-c97e0d136257b6b38ae05286cdf605cdfd5a37a5f6090686467116d035d7ccda.png"
+    },
+    {
+      "path": "_internal/Module/shared/photo_evidence/photo_evidence_icons/copy.png",
+      "action": "put",
+      "base_sha256": null,
+      "sha256": "e5f8ade56760dc8c51dc4e0db817ad04d6504bff122fbcd83dae5e2d49093090",
+      "size": 1341,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261030-065850-5f124f8f/file-e5f8ade56760dc8c51dc4e0db817ad04d6504bff122fbcd83dae5e2d49093090.png"
+    },
+    {
+      "path": "_internal/Module/shared/photo_evidence/photo_evidence_icons/down.png",
+      "action": "put",
+      "base_sha256": null,
+      "sha256": "a1501177f7953fd889b1f639750862f0323ebc01266d111ad768c09d9252e922",
+      "size": 738,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261030-065850-5f124f8f/file-a1501177f7953fd889b1f639750862f0323ebc01266d111ad768c09d9252e922.png"
+    },
+    {
+      "path": "_internal/Module/shared/photo_evidence/photo_evidence_icons/download.png",
+      "action": "put",
+      "base_sha256": null,
+      "sha256": "ef26a71846b9d6ccfa04a97bac1e18d41ce80cf74cb3407d4a08a31c745be00e",
+      "size": 670,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261030-065850-5f124f8f/file-ef26a71846b9d6ccfa04a97bac1e18d41ce80cf74cb3407d4a08a31c745be00e.png"
+    },
+    {
+      "path": "_internal/Module/shared/photo_evidence/photo_evidence_icons/eye.png",
+      "action": "put",
+      "base_sha256": null,
+      "sha256": "fce26db5f9459ba48af014442ea2950b632211b167186806e445581882d06dd4",
+      "size": 2074,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261030-065850-5f124f8f/file-fce26db5f9459ba48af014442ea2950b632211b167186806e445581882d06dd4.png"
+    },
+    {
+      "path": "_internal/Module/shared/photo_evidence/photo_evidence_icons/grid.png",
+      "action": "put",
+      "base_sha256": null,
+      "sha256": "967c5a47a3089c9f239acf363bb3c96be6012d997eee2f7dad5ce8b6aa168779",
+      "size": 1322,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261030-065850-5f124f8f/file-967c5a47a3089c9f239acf363bb3c96be6012d997eee2f7dad5ce8b6aa168779.png"
+    },
+    {
+      "path": "_internal/Module/shared/photo_evidence/photo_evidence_icons/info.png",
+      "action": "put",
+      "base_sha256": null,
+      "sha256": "72e681eae92bd64a4bf5abff92d889928e7a18a10c8402475585af1d725650f3",
+      "size": 2247,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261030-065850-5f124f8f/file-72e681eae92bd64a4bf5abff92d889928e7a18a10c8402475585af1d725650f3.png"
+    },
+    {
+      "path": "_internal/Module/shared/photo_evidence/photo_evidence_icons/list.png",
+      "action": "put",
+      "base_sha256": null,
+      "sha256": "ab6f7ae2a091ab6791ef5fccd7944569f410a5dcf8d2887d3fa21c1bde019acb",
+      "size": 357,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261030-065850-5f124f8f/file-ab6f7ae2a091ab6791ef5fccd7944569f410a5dcf8d2887d3fa21c1bde019acb.png"
+    },
+    {
+      "path": "_internal/Module/shared/photo_evidence/photo_evidence_icons/more.png",
+      "action": "put",
+      "base_sha256": null,
+      "sha256": "6dc7dd061bfa4faccd450d0a2b616ffb7c7bb8eb64f1ca76bf37f7510a5beb72",
+      "size": 815,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261030-065850-5f124f8f/file-6dc7dd061bfa4faccd450d0a2b616ffb7c7bb8eb64f1ca76bf37f7510a5beb72.png"
+    },
+    {
+      "path": "_internal/Module/shared/photo_evidence/photo_evidence_icons/pen.png",
+      "action": "put",
+      "base_sha256": null,
+      "sha256": "9563173bd3896f21b135734dc1fa3f8a2892ef5cddd9dad02b63803d2d0aa348",
+      "size": 1539,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261030-065850-5f124f8f/file-9563173bd3896f21b135734dc1fa3f8a2892ef5cddd9dad02b63803d2d0aa348.png"
+    },
+    {
+      "path": "_internal/Module/shared/photo_evidence/photo_evidence_icons/phone.png",
+      "action": "put",
+      "base_sha256": null,
+      "sha256": "0f9e34ca3478271a3205823b1ee0715e149ea878e1620be76f5501d8cd1c24ca",
+      "size": 943,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261030-065850-5f124f8f/file-0f9e34ca3478271a3205823b1ee0715e149ea878e1620be76f5501d8cd1c24ca.png"
+    },
+    {
+      "path": "_internal/Module/shared/photo_evidence/photo_evidence_icons/signature.png",
+      "action": "put",
+      "base_sha256": null,
+      "sha256": "7a295d23c42777bc8feb895de58695c5b99b6418021cbf2866aeab2ad65eae2f",
+      "size": 1613,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261030-065850-5f124f8f/file-7a295d23c42777bc8feb895de58695c5b99b6418021cbf2866aeab2ad65eae2f.png"
+    },
+    {
+      "path": "_internal/Module/shared/photo_evidence/photo_evidence_icons/square.png",
+      "action": "put",
+      "base_sha256": null,
+      "sha256": "4dfaf4694c6b1d43cdef2da37d1929bcad029b83e88349c79d4ce034673a5155",
+      "size": 739,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261030-065850-5f124f8f/file-4dfaf4694c6b1d43cdef2da37d1929bcad029b83e88349c79d4ce034673a5155.png"
+    },
+    {
+      "path": "_internal/Module/shared/photo_evidence/photo_evidence_icons/trash.png",
+      "action": "put",
+      "base_sha256": null,
+      "sha256": "f7747c0f1c2e922440c0979943a2d954049dfeff66fdfd00a5f8f3011352c0a2",
+      "size": 1297,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261030-065850-5f124f8f/file-f7747c0f1c2e922440c0979943a2d954049dfeff66fdfd00a5f8f3011352c0a2.png"
+    },
+    {
+      "path": "_internal/Module/shared/photo_evidence/photo_evidence_icons/up.png",
+      "action": "put",
+      "base_sha256": null,
+      "sha256": "af4678863d120922d194e1714c4070a651c1d206ba42a69c7afad7dfdb3e48b7",
+      "size": 707,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261030-065850-5f124f8f/file-af4678863d120922d194e1714c4070a651c1d206ba42a69c7afad7dfdb3e48b7.png"
+    },
+    {
+      "path": "_internal/Module/shared/photo_evidence/photo_evidence_icons/x.png",
+      "action": "put",
+      "base_sha256": null,
+      "sha256": "69736db0c4df8cea57233e9b3e9ff1d2001214ab688566c03cb758c91db3066e",
+      "size": 894,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261030-065850-5f124f8f/file-69736db0c4df8cea57233e9b3e9ff1d2001214ab688566c03cb758c91db3066e.png"
+    },
+    {
+      "path": "_internal/Module/shared/photo_evidence/photo_evidence_lite_preview.html",
+      "action": "put",
+      "base_sha256": null,
+      "sha256": "71c4e3f8febf228e4d88368d9c2e77ecf437d2af705f24cf462d4266d3853b71",
+      "size": 4214,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261030-065850-5f124f8f/file-71c4e3f8febf228e4d88368d9c2e77ecf437d2af705f24cf462d4266d3853b71.html"
+    },
+    {
+      "path": "_internal/Module/shared/photo_evidence/photo_evidence_studio.html",
+      "action": "put",
+      "base_sha256": null,
+      "sha256": "7ffb034e3c93518eacd5c4c205dd9c356aa9a1dd36e0e46e8c0094faeb9f1302",
+      "size": 106230,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261030-065850-5f124f8f/file-7ffb034e3c93518eacd5c4c205dd9c356aa9a1dd36e0e46e8c0094faeb9f1302.html"
+    },
+    {
+      "path": "_internal/Module/shared/template/crimes_scene/แผนที่เกิดเหตุ.docx",
+      "action": "put",
+      "base_sha256": null,
+      "sha256": "397833bc266fdae6035d1aa1f5f17d0122df2611019c109262ab7acf7f307759",
+      "size": 1909656,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261030-065850-5f124f8f/file-397833bc266fdae6035d1aa1f5f17d0122df2611019c109262ab7acf7f307759.docx"
+    },
+    {
+      "path": "_internal/Module/shared/template/photo_evidence/ภาพถ่ายประกอบคดี.docx",
+      "action": "put",
+      "base_sha256": null,
+      "sha256": "6e0665dedd91fda78fa4f261ae59c3e0cb715951e471d86e6adca24d5cd4b887",
+      "size": 28900,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261030-065850-5f124f8f/file-6e0665dedd91fda78fa4f261ae59c3e0cb715951e471d86e6adca24d5cd4b887.docx"
+    },
+    {
+      "path": "_internal/resources/fonts/THSarabunIT9/font-manifest.json",
+      "action": "put",
+      "base_sha256": null,
+      "sha256": "82d6336d0fae66cedeac49db33c924cbfd43d88bb59e8f5fbe681e45bc71d87b",
+      "size": 1122,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261030-065850-5f124f8f/file-82d6336d0fae66cedeac49db33c924cbfd43d88bb59e8f5fbe681e45bc71d87b.json"
+    },
+    {
+      "path": "_internal/resources/fonts/THSarabunIT9/LICENSE.txt",
+      "action": "put",
+      "base_sha256": null,
+      "sha256": "cf423d536c9cc84504b0160a29375f7639bfee0249640f65273a80f36e66ed7a",
+      "size": 2654,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261030-065850-5f124f8f/file-cf423d536c9cc84504b0160a29375f7639bfee0249640f65273a80f36e66ed7a.txt"
+    },
+    {
+      "path": "_internal/resources/fonts/THSarabunIT9/README.md",
+      "action": "put",
+      "base_sha256": null,
+      "sha256": "1618f8e1deff842bb9d954bf1c48279251900f4f556a1fa736485c50c25903fe",
+      "size": 1707,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261030-065850-5f124f8f/file-1618f8e1deff842bb9d954bf1c48279251900f4f556a1fa736485c50c25903fe.md"
+    },
+    {
+      "path": "_internal/resources/fonts/THSarabunIT9/THSarabunIT๙ Bold.ttf",
+      "action": "put",
+      "base_sha256": null,
+      "sha256": "b888a24016eedea974c4d7c8a9d0121d9f98771bd37b25a1601069bca7f20d37",
+      "size": 104688,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261030-065850-5f124f8f/file-b888a24016eedea974c4d7c8a9d0121d9f98771bd37b25a1601069bca7f20d37.ttf"
+    },
+    {
+      "path": "_internal/resources/fonts/THSarabunIT9/THSarabunIT๙ BoldItalic.ttf",
+      "action": "put",
+      "base_sha256": null,
+      "sha256": "8c3390c524ca8ec3cb5d32ced4e1b51abbc7fb4465e4d19e1d5c14894749fb3b",
+      "size": 101488,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261030-065850-5f124f8f/file-8c3390c524ca8ec3cb5d32ced4e1b51abbc7fb4465e4d19e1d5c14894749fb3b.ttf"
+    },
+    {
+      "path": "_internal/resources/fonts/THSarabunIT9/THSarabunIT๙ Italic.ttf",
+      "action": "put",
+      "base_sha256": null,
+      "sha256": "3930a6f8c95311512ff8df45275d1380ee351f331410e2ccce9151d58cdf67a6",
+      "size": 101708,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261030-065850-5f124f8f/file-3930a6f8c95311512ff8df45275d1380ee351f331410e2ccce9151d58cdf67a6.ttf"
+    },
+    {
+      "path": "_internal/resources/fonts/THSarabunIT9/THSarabunIT๙.ttf",
+      "action": "put",
+      "base_sha256": null,
+      "sha256": "d39887e71f9d17b7c02c1dce28e99f40f9f1cc04de2abb8a9081c146a9258b06",
+      "size": 97312,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261030-065850-5f124f8f/file-d39887e71f9d17b7c02c1dce28e99f40f9f1cc04de2abb8a9081c146a9258b06.ttf"
+    },
+    {
+      "path": "CAT-ALYSIM.exe",
+      "action": "put",
+      "base_sha256": "2bdada87fd24890f4880dfc2640c6708bdb6acebc6167bc016673755254abfea",
+      "sha256": "ad235d45c8e090957bfe985f3fb21b65970ead5ef8cdace71d039d7c179af6a1",
+      "size": 46226764,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261030-065850-5f124f8f/file-ad235d45c8e090957bfe985f3fb21b65970ead5ef8cdace71d039d7c179af6a1.exe"
+    }
+  ],
+  "signature": {
+    "algorithm": "Ed25519",
+    "key_id": "a95ed88d04394b00",
+    "value": "UWdbnDKVHI77BRnvKxT8iwDyuJRh7WhEGmzJh9V6Aa5Mbn2dXDkmeXZ77J9oLHCUqYIt9dkSpV/LnZgZICIBAw=="
+  }
+}
