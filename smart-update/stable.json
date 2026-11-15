@@ -3,16 +3,154 @@
   "app": "CAT-ALYSIM",
   "channel": "stable",
   "base_app_version": "2026.10.24.1",
-  "revision": 1,
-  "generated_at": "2026-10-30T06:59:11.837019+07:00",
+  "revision": 2,
+  "generated_at": "2026-11-15T17:17:29.065770+07:00",
+  "issued_at": "2026-11-15T17:17:29.065770+07:00",
+  "expires_at": "2027-05-14T17:17:29.065770+07:00",
   "files": [
+    {
+      "path": "_internal/_cat_assets/data/csv/charge.csv",
+      "action": "put",
+      "base_sha256": null,
+      "sha256": "62681da60509d89428f18d2ac756452d142ec64a13ac23f73872071c7978b4c1",
+      "size": 21196,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261115-171709-0427867d/file-62681da60509d89428f18d2ac756452d142ec64a13ac23f73872071c7978b4c1.csv"
+    },
+    {
+      "path": "_internal/_cat_assets/data/csv/civil_charge.csv",
+      "action": "put",
+      "base_sha256": null,
+      "sha256": "080087b29c7d3686325efa8254e3a5874f2f9e1959bcd3a887fd3224c958bc31",
+      "size": 9482,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261115-171709-0427867d/file-080087b29c7d3686325efa8254e3a5874f2f9e1959bcd3a887fd3224c958bc31.csv"
+    },
+    {
+      "path": "_internal/_cat_assets/data/csv/drugs_charge.csv",
+      "action": "put",
+      "base_sha256": null,
+      "sha256": "61cecf0f18cc78bb90ed9d5d2833a805c87654bc01b5f825ec593fcf4f5e3928",
+      "size": 4838,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261115-171709-0427867d/file-61cecf0f18cc78bb90ed9d5d2833a805c87654bc01b5f825ec593fcf4f5e3928.csv"
+    },
+    {
+      "path": "_internal/_cat_assets/data/csv/policestation.csv",
+      "action": "put",
+      "base_sha256": null,
+      "sha256": "a0541bae15af4753d8f61a3813bd8c772504853395cc2e6c0a77209da3f6f6ec",
+      "size": 321847,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261115-171709-0427867d/file-a0541bae15af4753d8f61a3813bd8c772504853395cc2e6c0a77209da3f6f6ec.csv"
+    },
+    {
+      "path": "_internal/_cat_assets/data/csv/statement_templates_factory.csv",
+      "action": "put",
+      "base_sha256": null,
+      "sha256": "2ec2abcc32ceee9c9d9610c89d99e0e4d88b356a21ae36368852781972c6d9d0",
+      "size": 98829,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261115-171709-0427867d/file-2ec2abcc32ceee9c9d9610c89d99e0e4d88b356a21ae36368852781972c6d9d0.csv"
+    },
+    {
+      "path": "_internal/_cat_assets/data/csv/thailand_zipcode.csv",
+      "action": "put",
+      "base_sha256": null,
+      "sha256": "4e87f7f8a5e538dec7912f330705b7c5a725553a348ae6866384316a4f6e5b83",
+      "size": 707784,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261115-171709-0427867d/file-4e87f7f8a5e538dec7912f330705b7c5a725553a348ae6866384316a4f6e5b83.csv"
+    },
+    {
+      "path": "_internal/_cat_assets/data/csv/traffic_charge.csv",
+      "action": "put",
+      "base_sha256": null,
+      "sha256": "8fd424e1813e84c2acc6da328a1e5260b8e3a713c3ea11aec62ef568a98301d4",
+      "size": 6934,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261115-171709-0427867d/file-8fd424e1813e84c2acc6da328a1e5260b8e3a713c3ea11aec62ef568a98301d4.csv"
+    },
     {
       "path": "_internal/base_library.zip",
       "action": "put",
       "base_sha256": "b3243d39f1b0e83a383aacbcaefd42b460fe4a5fc84fb3d5595a7ce1909e6913",
-      "sha256": "b4b9a14ca7f3fdad66c56cdd2926e2a4d08171d60cad5df90341cbcabf69bbd6",
+      "sha256": "2818bd9cf5661bf1b2a1eabf5166b85804537ec1f08838a588c61b026f38c48a",
       "size": 1331361,
-      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261030-065850-5f124f8f/file-b4b9a14ca7f3fdad66c56cdd2926e2a4d08171d60cad5df90341cbcabf69bbd6.zip"
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261115-171709-0427867d/file-2818bd9cf5661bf1b2a1eabf5166b85804537ec1f08838a588c61b026f38c48a.zip"
+    },
+    {
+      "path": "_internal/config/brand_display.json",
+      "action": "put",
+      "base_sha256": null,
+      "sha256": "a280b5792503712a2114869080c079bee9835f2d8745a4f7cca5b8af113f01a1",
+      "size": 159,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261115-171709-0427867d/file-a280b5792503712a2114869080c079bee9835f2d8745a4f7cca5b8af113f01a1.json"
+    },
+    {
+      "path": "_internal/Module/Civil/template/ฝากขังศาลอาญา/คำร้องขอฝากขังครั้งที่ 1.docx",
+      "action": "put",
+      "base_sha256": "342ca8b97d38a0afa637514eeb705cd16a0cc965f031c052c0c21176e4cc4691",
+      "sha256": "ba395c80fc799b674e7126bbf97541ac9055c0d4e74720121530254d1cd80922",
+      "size": 92017,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261115-171709-0427867d/file-ba395c80fc799b674e7126bbf97541ac9055c0d4e74720121530254d1cd80922.docx"
+    },
+    {
+      "path": "_internal/Module/Civil/template/ฝากขังศาลอาญา/คำให้การพยาน(ฝากขัง).docx",
+      "action": "put",
+      "base_sha256": "7e88fddaec44320a21e948d47dcdee74056b817fa563fa7c39170499604f82a3",
+      "sha256": "0500140134b72046911ded867471758a894d63b38c50804abe0a210cfc0c0f51",
+      "size": 50882,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261115-171709-0427867d/file-0500140134b72046911ded867471758a894d63b38c50804abe0a210cfc0c0f51.docx"
+    },
+    {
+      "path": "_internal/Module/Drugs.zip",
+      "action": "put",
+      "base_sha256": "57f65c45941a8c3c54e034fb8bf8651b001964cada9b0e84a9beec2ea9b8abb2",
+      "sha256": "7eec8e26ea7dd3d29f506071d540f1962651d6a912d8c85a44c33aa755ad47bf",
+      "size": 17841147,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261115-171709-0427867d/file-7eec8e26ea7dd3d29f506071d540f1962651d6a912d8c85a44c33aa755ad47bf.zip"
+    },
+    {
+      "path": "_internal/Module/Drugs/template/คำให้การผู้ต้องหา.docx",
+      "action": "put",
+      "base_sha256": "d40741f0b21103c97ab2fd4824c86c12c314c45f9f1be0ff19e6b90308a9e2fd",
+      "sha256": "fe958097bc77212f3d01e8d72cafac04b6cf0cade2577226ac88b84a24ee6c10",
+      "size": 171386,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261115-171709-0427867d/file-fe958097bc77212f3d01e8d72cafac04b6cf0cade2577226ac88b84a24ee6c10.docx"
+    },
+    {
+      "path": "_internal/Module/Drugs/template/คำให้การพยาน.docx",
+      "action": "put",
+      "base_sha256": "79214267d05ab9e39f59f65c2785e67f8fe49dbc7cbd527cfefb4dd1f4268fe9",
+      "sha256": "35920d5e2164c55ee5b63d6b972bb9827e8d73bbb74f459edbc7249f0e872617",
+      "size": 75160,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261115-171709-0427867d/file-35920d5e2164c55ee5b63d6b972bb9827e8d73bbb74f459edbc7249f0e872617.docx"
+    },
+    {
+      "path": "_internal/Module/Drugs/template/บัญชีของกลาง.docx",
+      "action": "put",
+      "base_sha256": "a8d4570209aea105343786904735c254ba314112e2d7d246630cb7e8a6b0ec36",
+      "sha256": "5ef1dabfa8b5ffca5d8b7b352ea800af0057471f4a1abce3173afffb5a1fa350",
+      "size": 27461,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261115-171709-0427867d/file-5ef1dabfa8b5ffca5d8b7b352ea800af0057471f4a1abce3173afffb5a1fa350.docx"
+    },
+    {
+      "path": "_internal/Module/Drugs/template/รายงานการสอบสวน.docx",
+      "action": "put",
+      "base_sha256": "da18c67d95892ec1534b7adc34c7d217dd6491d491ea22748e1b210deabf51ca",
+      "sha256": "b8b701dea4bdb0f1371e0288a6c56229d1a62568be1412bf314fdea65adb73f2",
+      "size": 163286,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261115-171709-0427867d/file-b8b701dea4bdb0f1371e0288a6c56229d1a62568be1412bf314fdea65adb73f2.docx"
+    },
+    {
+      "path": "_internal/Module/Drugs/template/ส่งยาตรวจพิสูจน์.docx",
+      "action": "put",
+      "base_sha256": "74e92492f82c3c7cc6884c13b5a16de112a65cebdf3cf89c7ab2e8dfe35c8d02",
+      "sha256": "2b3772c3be9ea375d0cf57f56303b3c47bf20b4658997efa75dbb164bcfa8b3d",
+      "size": 38363,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261115-171709-0427867d/file-2b3772c3be9ea375d0cf57f56303b3c47bf20b4658997efa75dbb164bcfa8b3d.docx"
+    },
+    {
+      "path": "_internal/Module/Drugs/ui/ImprisonTab.ui",
+      "action": "put",
+      "base_sha256": "1d166de02376c454abf38bf2b5f5d350544820bb197e49ec54962412b43ac569",
+      "sha256": "b029d9810b5ce1749e2c2fa041a57a728c1a56f54aac6c6723d86388eb86b81e",
+      "size": 15133,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261115-171709-0427867d/file-b029d9810b5ce1749e2c2fa041a57a728c1a56f54aac6c6723d86388eb86b81e.ui"
     },
     {
       "path": "_internal/Module/shared.zip",
@@ -29,6 +167,14 @@
       "sha256": "0dfff72e56100dd27e36bb1f08f2d4186b04d26db4196d9fff3e6a139c1ffd61",
       "size": 663408,
       "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261030-065850-5f124f8f/file-0dfff72e56100dd27e36bb1f08f2d4186b04d26db4196d9fff3e6a139c1ffd61.zip"
+    },
+    {
+      "path": "_internal/Module/shared/manage_statement.zip",
+      "action": "put",
+      "base_sha256": "7a7c3472f5caf97836e34fa6d5f320021002a15c4dd511ac165dadc1dede51b9",
+      "sha256": "fe69c3d4fdc7f6989def8a4a878d690414510db520a00b0ddfa240b48115420d",
+      "size": 242477,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261115-171709-0427867d/file-fe69c3d4fdc7f6989def8a4a878d690414510db520a00b0ddfa240b48115420d.zip"
     },
     {
       "path": "_internal/Module/shared/photo_evidence.zip",
@@ -215,12 +361,148 @@
       "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261030-065850-5f124f8f/file-397833bc266fdae6035d1aa1f5f17d0122df2611019c109262ab7acf7f307759.docx"
     },
     {
+      "path": "_internal/Module/shared/template/custody/บันทึกการควบคุมผู้ต้องหา.docx",
+      "action": "put",
+      "base_sha256": null,
+      "sha256": "bae262d06051f99d8598a2df3e145be5a99cb42891945f80fb95fff34418849a",
+      "size": 127925,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261115-171709-0427867d/file-bae262d06051f99d8598a2df3e145be5a99cb42891945f80fb95fff34418849a.docx"
+    },
+    {
+      "path": "_internal/Module/shared/template/dossier/garuda_reference.png",
+      "action": "put",
+      "base_sha256": null,
+      "sha256": "6ebb29bf7cf32e396070cefc31aaf2fe535b5b7c60fa65cc93db3070b23218d9",
+      "size": 2190,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261115-171709-0427867d/file-6ebb29bf7cf32e396070cefc31aaf2fe535b5b7c60fa65cc93db3070b23218d9.png"
+    },
+    {
+      "path": "_internal/Module/shared/template/dossier/บัญชีท้ายสำนวนการสอบสวน.docx",
+      "action": "put",
+      "base_sha256": null,
+      "sha256": "eab6c231c3bb9c6f339d902bc9bb2e402bf1bde909f4a1b0a55ddca717110bf0",
+      "size": 28202,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261115-171709-0427867d/file-eab6c231c3bb9c6f339d902bc9bb2e402bf1bde909f4a1b0a55ddca717110bf0.docx"
+    },
+    {
+      "path": "_internal/Module/shared/template/imprison/ฝากขังศาลอาญา/คำร้องขอฝากขังครั้งที่ 1.docx",
+      "action": "put",
+      "base_sha256": "938f586383fee5661e2174675cb2b09ebf8beebec006a781c3b7a977af4a735e",
+      "sha256": "ba4019e0d6bce2337f8d34a27a8e5b6d83d9cd76c9fa2542863115e570e6aa69",
+      "size": 94027,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261115-171709-0427867d/file-ba4019e0d6bce2337f8d34a27a8e5b6d83d9cd76c9fa2542863115e570e6aa69.docx"
+    },
+    {
+      "path": "_internal/Module/shared/template/imprison/ฝากขังศาลอาญา/คำให้การพยาน(ฝากขัง).docx",
+      "action": "put",
+      "base_sha256": "7e88fddaec44320a21e948d47dcdee74056b817fa563fa7c39170499604f82a3",
+      "sha256": "0500140134b72046911ded867471758a894d63b38c50804abe0a210cfc0c0f51",
+      "size": 50882,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261115-171709-0427867d/file-0500140134b72046911ded867471758a894d63b38c50804abe0a210cfc0c0f51.docx"
+    },
+    {
       "path": "_internal/Module/shared/template/photo_evidence/ภาพถ่ายประกอบคดี.docx",
       "action": "put",
       "base_sha256": null,
       "sha256": "6e0665dedd91fda78fa4f261ae59c3e0cb715951e471d86e6adca24d5cd4b887",
       "size": 28900,
       "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261030-065850-5f124f8f/file-6e0665dedd91fda78fa4f261ae59c3e0cb715951e471d86e6adca24d5cd4b887.docx"
+    },
+    {
+      "path": "_internal/Module/shared/template/report_summary/รายงานการสอบสวน.docx",
+      "action": "put",
+      "base_sha256": null,
+      "sha256": "7b2439e90ea7f655da596783a49163f5e8c2bd35727a1553dfc07b3f895ade62",
+      "size": 233296,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261115-171709-0427867d/file-7b2439e90ea7f655da596783a49163f5e8c2bd35727a1553dfc07b3f895ade62.docx"
+    },
+    {
+      "path": "_internal/Module/shared/template/send_dossier/หนังสือส่งสำนวน.docx",
+      "action": "put",
+      "base_sha256": null,
+      "sha256": "b1a166b99a67d7af3cc18db4c6b0157048c2d9da68c975642a01eecac44917e1",
+      "size": 123656,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261115-171709-0427867d/file-b1a166b99a67d7af3cc18db4c6b0157048c2d9da68c975642a01eecac44917e1.docx"
+    },
+    {
+      "path": "_internal/pages/ai_page.zip",
+      "action": "put",
+      "base_sha256": "cfec2566d710b81f9d1b8c4d8087a3431dc3c0f87d6e3b6baebba56d4b0c33d9",
+      "sha256": "73357c5c76d2b187529f255b756fb2f5e49ac3bfcdffa741ec6fec8d3cb8af11",
+      "size": 663805,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261115-171709-0427867d/file-73357c5c76d2b187529f255b756fb2f5e49ac3bfcdffa741ec6fec8d3cb8af11.zip"
+    },
+    {
+      "path": "_internal/pages/book_page.zip",
+      "action": "put",
+      "base_sha256": "0c10955bc9d880ae731b1848f5edf5c1f66e63a866583fe5e3820405d6b573a1",
+      "sha256": "810fbe563044f729bb2f94db17093fc58e0bdf66912503a1a480d902d0db1e16",
+      "size": 7051666,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261115-171709-0427867d/file-810fbe563044f729bb2f94db17093fc58e0bdf66912503a1a480d902d0db1e16.zip"
+    },
+    {
+      "path": "_internal/pages/book_page/ARCHITECTURE.md",
+      "action": "put",
+      "base_sha256": "e50e9e6d660a09c6e065a784c6bc40f7587b2285cdf884f3e977b82fc1d525ac",
+      "sha256": "d92d2a4a1973fb95cde44009e3d2e81e3f04dd881a0ac507b12d0d1577f07566",
+      "size": 15310,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261115-171709-0427867d/file-d92d2a4a1973fb95cde44009e3d2e81e3f04dd881a0ac507b12d0d1577f07566.md"
+    },
+    {
+      "path": "_internal/pages/book_page/draft_wizard_ui.html",
+      "action": "put",
+      "base_sha256": "fcb48e319f1d2c699c11a5663cfefd44739f79d2fb91f93c5e34ab4804e035a9",
+      "sha256": "867f097c4f28ffef39c2eae85ccafb084b5b8aaa93264918268b91cec00b21e1",
+      "size": 88210,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261115-171709-0427867d/file-867f097c4f28ffef39c2eae85ccafb084b5b8aaa93264918268b91cec00b21e1.html"
+    },
+    {
+      "path": "_internal/pages/book_page/template/_drafts/หนังสือภายนอก.docx",
+      "action": "put",
+      "base_sha256": "6ceb98aad0fb26c9a115198f8be9dbc12ecaa43a42443654a4807eaa9f8f910a",
+      "sha256": "ea802d863f1f19b2f43bafa13a1a076efe84361a8173fc4f438bec278667ea44",
+      "size": 71409,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261115-171709-0427867d/file-ea802d863f1f19b2f43bafa13a1a076efe84361a8173fc4f438bec278667ea44.docx"
+    },
+    {
+      "path": "_internal/pages/book_page/template/_drafts/หนังสือภายใน.docx",
+      "action": "put",
+      "base_sha256": "50c060b941aa407693e634971e99f53982c150b4d8876bcbb7d8dbdd64f7fda7",
+      "sha256": "3aa086a48994073e219564b1a1e91ed8f8cff80773083a8e42e6443e25ffb824",
+      "size": 52378,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261115-171709-0427867d/file-3aa086a48994073e219564b1a1e91ed8f8cff80773083a8e42e6443e25ffb824.docx"
+    },
+    {
+      "path": "_internal/pages/deep_search_page.zip",
+      "action": "put",
+      "base_sha256": "140e46ccb532c1c1b9571ecc4e45e7a23f3cb6218680c5c5914c2360dd5e779d",
+      "sha256": "0587589574265c9136e74b5dbbe6d1c10386912f39a569e18f324c8b8b9be6c3",
+      "size": 341778,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261115-171709-0427867d/file-0587589574265c9136e74b5dbbe6d1c10386912f39a569e18f324c8b8b9be6c3.zip"
+    },
+    {
+      "path": "_internal/pages/help_page.zip",
+      "action": "put",
+      "base_sha256": "503769ace165a0a7f1f9530d7c44bf58aa4956d47b94c0dc81fcf8d8fa7a5e4b",
+      "sha256": "ca2d7111e2ee05ca3f6414a8cc29c1b33754201eb395ff019844734e5fee5c3b",
+      "size": 1926256,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261115-171709-0427867d/file-ca2d7111e2ee05ca3f6414a8cc29c1b33754201eb395ff019844734e5fee5c3b.zip"
+    },
+    {
+      "path": "_internal/pages/note_page.zip",
+      "action": "put",
+      "base_sha256": "9d69c97afa24f06ac6e8690cffa71ab54a8fa3d42eaf599a5c3bd64bc144c391",
+      "sha256": "a15cfc717233bfa9d5dd560f119c4a6aaf51598caf91b4bc3797f3000f730eb5",
+      "size": 201330,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261115-171709-0427867d/file-a15cfc717233bfa9d5dd560f119c4a6aaf51598caf91b4bc3797f3000f730eb5.zip"
+    },
+    {
+      "path": "_internal/pages/ocr_page.zip",
+      "action": "put",
+      "base_sha256": "0d17dad7e690388ce685913b3f55cd55a3f3cca1b22552cd53fb018b6cd631f7",
+      "sha256": "cefe308aa9d89ecb29c546c9c81d028dba27714bbeb88f70a5874b0dbf5be385",
+      "size": 571367,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261115-171709-0427867d/file-cefe308aa9d89ecb29c546c9c81d028dba27714bbeb88f70a5874b0dbf5be385.zip"
     },
     {
       "path": "_internal/resources/fonts/THSarabunIT9/font-manifest.json",
@@ -279,17 +561,33 @@
       "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261030-065850-5f124f8f/file-d39887e71f9d17b7c02c1dce28e99f40f9f1cc04de2abb8a9081c146a9258b06.ttf"
     },
     {
+      "path": "_internal/words/dossier/assets/tray_guide.png",
+      "action": "put",
+      "base_sha256": null,
+      "sha256": "bd27f00257d766c5ad76248ab4cea776f6a48b88d0a024e5cf3611ce555bbef5",
+      "size": 28990,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261115-171709-0427867d/file-bd27f00257d766c5ad76248ab4cea776f6a48b88d0a024e5cf3611ce555bbef5.png"
+    },
+    {
+      "path": "_internal/words/dossier/assets/tray_guide_vertical.png",
+      "action": "put",
+      "base_sha256": null,
+      "sha256": "ec099196bc644ad86717c50452c662c45e5dc95d4d57409500f24c8bf829b5fb",
+      "size": 37057,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261115-171709-0427867d/file-ec099196bc644ad86717c50452c662c45e5dc95d4d57409500f24c8bf829b5fb.png"
+    },
+    {
       "path": "CAT-ALYSIM.exe",
       "action": "put",
       "base_sha256": "2bdada87fd24890f4880dfc2640c6708bdb6acebc6167bc016673755254abfea",
-      "sha256": "ad235d45c8e090957bfe985f3fb21b65970ead5ef8cdace71d039d7c179af6a1",
-      "size": 46226764,
-      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261030-065850-5f124f8f/file-ad235d45c8e090957bfe985f3fb21b65970ead5ef8cdace71d039d7c179af6a1.exe"
+      "sha256": "0f819b197a80160296bc402e315f68e8685e3e89953185e59a5fe27133209b91",
+      "size": 47110516,
+      "url": "https://github.com/koajomza/CAT-ALYSIM-Releases/releases/download/micro-20261115-171709-0427867d/file-0f819b197a80160296bc402e315f68e8685e3e89953185e59a5fe27133209b91.exe"
     }
   ],
   "signature": {
     "algorithm": "Ed25519",
     "key_id": "a95ed88d04394b00",
-    "value": "UWdbnDKVHI77BRnvKxT8iwDyuJRh7WhEGmzJh9V6Aa5Mbn2dXDkmeXZ77J9oLHCUqYIt9dkSpV/LnZgZICIBAw=="
+    "value": "2UNnLhs94Ihx9HiZals5BD7O4Fs3nqFXDyPBO0OVjpBUy2IH10OsGHNNt9Ok1d83+LLMrfs7REyh7TZ5LgjfDQ=="
   }
 }
